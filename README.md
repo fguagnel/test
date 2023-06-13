@@ -1,5 +1,3 @@
 # REST Service Hello World
 
-## application:
-
-http://host:port/hello
+application: http://host:port/hello
